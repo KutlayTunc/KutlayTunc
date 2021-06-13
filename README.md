@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tunc
-- 👀 I’m interested in ... Building web apps using MERN
+- 👀 I’m interested in ... Building web apps using MERN Stack
 - 🌱 I’m currently learning ... what i wanna do with my life...
 - 💞️ I’m looking to collaborate on ... you 😏
