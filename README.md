@@ -1,6 +1,6 @@
-<p float="center" align="top">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutlaytunc&" alt="kutlaytunc" />
+<p float="left" align="top">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kutlaytunc&show_icons=true&locale=en&layout=compact" alt="kutlaytunc" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutlaytunc&" alt="kutlaytunc" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
