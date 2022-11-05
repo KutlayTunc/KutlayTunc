@@ -1,4 +1,4 @@
-<p align="left"> 
+<p float="left">
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kutlaytunc&show_icons=true&locale=en&layout=compact" alt="kutlaytunc" /> 
 </p>
